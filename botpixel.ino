@@ -7,6 +7,7 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(LED_COUNT, LED_PIN, NEO_GRB + NEO_KH
 
 void setup() {
   strip.begin();
+  strip.setBrightness(128); // 50% brightness
   strip.show(); // Initialize all pixels to 'off'
 }
 
