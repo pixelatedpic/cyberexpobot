@@ -1,3 +1,15 @@
+############################################################
+#         _      _____ _       _           _       _      
+#        (_)    |____ | |     | |         | |     (_)     
+#   _ __  ___  __   / | | __ _| |_ ___  __| |_ __  _  ___ 
+#  | '_ \| \ \/ /   \ | |/ _` | __/ _ \/ _` | '_ \| |/ __|
+#  | |_) | |>  <.___/ | | (_| | ||  __| (_| | |_) | | (__ 
+#  | .__/|_/_/\_\____/|_|\__,_|\__\___|\__,_| .__/|_|\___|
+#  | |                                      | |           
+#  |_|                                      |_|           
+#https://github.com/pixelatedpic/cyberexpobot
+#Please subscribe my YouTube channel https://www.youtube.com/@MohamedAfzal
+
 #include <Adafruit_NeoPixel.h>
 
 #define LED_PIN 6     // Pin connected to the data line of the LED strip
